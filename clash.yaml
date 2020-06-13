@@ -156,7 +156,7 @@ Proxy:
     port: 443
     password: admin
     
-   - {name: 🇺🇲 US1-流媒体-🇺🇸, server: us1.lwd666.online, port: 443, type: trojan, password: sudu19281akks, sni: us1.lwd666.online}
+   - name: 🇺🇲 US1-流媒体-🇺🇸, server: us1.lwd666.online, port: 443, type: trojan, password: sudu19281akks, sni: us1.lwd666.online
   
 'Proxy Group':
   -
