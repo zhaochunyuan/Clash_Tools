@@ -176,6 +176,7 @@ Proxy:
     type: select
     proxies:
       - 'trojan新加坡'
+      - "日本东京-Netflix"
       - 🚀直接连接
   -
     name: ⚓️其他流量
