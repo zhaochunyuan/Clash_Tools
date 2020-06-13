@@ -156,6 +156,17 @@ Proxy:
     port: 443
     password: admin
     
+  - name: "日本东京-Netflix"
+    type: vmess
+    server: jp.y6623.top
+    port: 10443
+    uuid: 7B677738-9820-4680-299F-CC1AA6A57D02
+    alterId: 0
+    cipher: auto
+    tls: true
+    network: ws
+    ws-path: /V2ray
+    Host: jp.y6623.top
     
 # 策略组
   
